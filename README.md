@@ -1,1 +1,1 @@
-# only-korean-can-understand
+# 한국인들만 알아볼 수 있는 글 해독하기 예시
